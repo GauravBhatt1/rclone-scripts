@@ -4,7 +4,7 @@
 RCLONE_MOUNT_OPTIONS="--vfs-cache-mode full --allow-other --allow-non-empty"
 
 # Path to rclone.conf
-RCLONE_CONF="/home/ubuntu/.config/rclone"
+RCLONE_CONF="/home/ubuntu/.config/rclone/rclone.conf"
 
 # Base path to mount
 BASE_MOUNT_PATH="/home/ubuntu/Files/Cloud"
